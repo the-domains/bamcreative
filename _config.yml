@@ -1,0 +1,28 @@
+name: BAMCreative
+favicon: null
+layout_spectrum: 0.09269818291068077
+typography_spectrum: 0.3870470735710114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.34200305701233447
+  lightness: 0.28064194181934
+  saturation: 0.026957632740959525
+  rhythmicContrast: 0.9320074662100524
+purpose: []
